@@ -8,6 +8,7 @@ Data Cleaning And Analysis - MYSQL, Jupyter Notebook(sql magic)
 
 Data Visualization - Power Bi
 
+
 Questions
 
 1. What is the gender breakdown of employees in the company?
@@ -32,6 +33,7 @@ Questions
 
 11. What is the tenure distribution for department?
 
+
 Summary Of Findings
 
 Male employees are more than female employees.
@@ -55,6 +57,7 @@ A large number of employees come from Ohio.
 The net change in employee has increased over the years.
 
 The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
+
 
 Limitations
 
