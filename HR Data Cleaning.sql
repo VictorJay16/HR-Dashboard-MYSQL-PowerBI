@@ -1,13 +1,3 @@
--- Data Cleaning
-
--- Removing Duplicates
--- Standardizing Data
--- Populating Amd Removing Null And Blank Rows
--- Deleting Unwanted Columns And Rows 
-
--- Explore Data
-
-
 SELECT * 
 FROM hr;
 
